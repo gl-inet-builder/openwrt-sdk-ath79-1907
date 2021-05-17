@@ -1,4 +1,4 @@
-src-git base https://github.com/openwrt/openwrt.git;openwrt-19.07.7
+src-git base https://github.com/gl-inet/openwrt.git;openwrt-19.07.7
 src-git gli_pub https://github.com/gl-inet/gli-pub.git
 src-git packages https://git.openwrt.org/feed/packages.git^90af10d01579425369bd474051b6d3ddaf32a7e3
 src-git luci https://git.openwrt.org/project/luci.git^34e0d656a41befd9720be35c4831c9f136a67c59
